@@ -1,0 +1,4 @@
+My new file
+contains 
+multiple lines
+
