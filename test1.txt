@@ -1,5 +1,6 @@
 new file in branch
 new line in branch
+edded new line dit as master
 new edit as master
 updated as branch
 
