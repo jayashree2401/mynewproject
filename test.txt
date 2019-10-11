@@ -2,3 +2,4 @@ my new file
 in the second line
 as master
 my second edit
+for conflicts as banch2.0
