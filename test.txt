@@ -2,5 +2,10 @@ my new file
 in the second line
 as master
 my second edit
+<<<<<<< HEAD
 changed as master Some changes for conflicts
 
+=======
+for conflicts as banch2.0
+Some changes for conflicts
+>>>>>>> 2357f423da3ff9b8f92e561c68220a3fabd611dd
