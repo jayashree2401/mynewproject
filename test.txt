@@ -2,4 +2,9 @@ my new file
 in the second line
 as master
 my second edit
+
 branch changes for 2 conflicts for conflicts as banch2.0
+changed as master Some changes for conflicts
+r conflicts as banch2.0
+Some changes for conflicts
+
