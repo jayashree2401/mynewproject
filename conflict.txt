@@ -1,1 +1,3 @@
+changed as branch2.0 new changes as master
 again a change for creating conflicts new changes as master
+
